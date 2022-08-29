@@ -3,7 +3,7 @@
 I'm Selien Yorbandi, a frontend developer.
 
 [<img alt="alt_text" alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/selien-yorbandi) 
-[<img alt="alt_text" alt="linkedin" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />](https://selienyorbandi.com) [<img alt="alt_text" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:selienyorbandi@gmail.com) 
+[<img alt="alt_text" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:selienyorbandi@gmail.com) 
 ## Technologies I've worked with
 -----------------------
 
